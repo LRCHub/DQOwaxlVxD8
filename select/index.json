@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Hood Gospel",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-01-08T13:09:24.174929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hood Gospel (feat. YZERR, Bark & T-Pablow)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/01_Hood_Gospel_(feat._YZERR,_Bark_&_T-Pablow)_BAD_HOP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hood Gospel (feat. YZERR, Bark & T-Pablow)",
+      "artist": "BAD HOP",
+      "has_synced": true,
+      "path": "select/02_Hood_Gospel_(feat._YZERR,_Bark_&_T-Pablow)_BAD_HOP.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hood Gospel",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/03_Hood_Gospel_BAD_HOP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hood Gospel",
+      "artist": "BAD HOP, T-Pablow, Bark, YZERR",
+      "has_synced": false,
+      "path": "select/pl_01_Hood_Gospel_BAD_HOP,_T-Pablow,_Bark,_YZERR.txt"
+    }
+  ]
+}
